@@ -1,0 +1,22 @@
+body {background-color: #F7E4BE;}
+
+
+nav {background-color: #F0B49E; padding: 10px; margin-bottom: 30px;}
+nav a {color: #99626E;}
+nav a:hover {background-color:#5f9ea0;}
+
+
+p {color: #73626E;}
+ul {color: #73626E;}
+h1 {color: #413E4A;}
+h2 {color: #413E4A;}
+
+caption {color: #413E4A;}
+tr {color: #73626E;}
+
+a {color: #413E6A;}
+
+@media only screen and (max-width: 800px) {
+            nav a {display: block; size: 100%; padding: 5px;}
+            span {display: none;}
+        }
